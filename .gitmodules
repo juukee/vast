@@ -1,0 +1,3 @@
+[submodule "themes/hugo-vast"]
+	path = themes/hugo-vast
+	url = git@github.com:juukee/hugo-vast.git

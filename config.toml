@@ -1,0 +1,4 @@
+baseURL = 'http://vast.juukee.cn/'
+languageCode = 'en-us'
+title = 'vast provide the most comprehensive website development tutorials and online documentation'
+theme = "hugo-vast"
